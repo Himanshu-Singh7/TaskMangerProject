@@ -2,7 +2,7 @@ package com.task.management.Util;
 
 public enum TaskStatus {
     
-	PENDING,
+     PENDING,
     IN_PROGRESS,
     COMPLETED
 }
